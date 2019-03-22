@@ -1,0 +1,104 @@
+Q1: What is a namespace? 
+A: Namespaces are used to organize code into logical groups.
+
+Q2: What are value types?
+A: Holds a data value within its own memory space. 
+
+Q3: What are reference types?
+A: Stores the address where the value is being stored. 
+
+Q4: What is an automatic property and how is it useful?
+A: It makes property decleration more concise when no additional logic is required. 
+
+Q5: What is the purpose of using statement?
+A: It releases the objects resources. 
+
+Q6: What are dynamic type variables?
+A: Variables that don't require initialization at the time of declaration. 
+
+Q7: What is the purpose of the is operator?
+A: The is operator checks if a type is compatible what what type it is directly given.
+
+Q8: What are generics and how is using them useful?
+A: Generics enable classes and interfaces to be parameters. They are type safe and easier to read. 
+
+Q9: What is the scope of a public member of a class?
+A: The scope of a program is the part of a program where a particualr variable is accessible. 
+
+Q10: Can you create a function that can accept a varying number of arguments?
+A:  Yes, if you use multiple parameters.
+
+Q11: How do you sort an array?
+A: You can sort an array by using the Array.Sort() method in ascending order.
+
+Q12: What is a nullable type and what purpose does it serve?
+A: These are special data types where you can assign normal range values as well as null values. 
+
+Q13: What is an enumeration?
+A: Used to define a constant set of values. 
+
+Q14: What is inheritance?
+A: The ability to create a class that "inherits" attributes from an existing class. 
+
+Q15: Is multiple inheritance supported?
+A: No, c# does not support multiple inheritance.
+
+Q16: What is the purpose of as operator
+A: Used for creating new objects for the class. 
+
+Q17: What is an object?
+A: A block of memory that has been allocated and configured. 
+
+Q18: What is the difference between a struct and a class?
+A: Structs are value types and classes are reference types. 
+
+Q19: What is the difference between continue and break statements?
+A: Break will break a loop/switch while continue will continue to loop through without skipping the iteration.
+
+Q20: What is this and how is it used?
+A: This is a current instance of a specific class.
+
+Q21: What is try and catch and when are they used?
+A: A try identifies an exception and a catch catches the exception where you want to handle a problem. They are used for exceptions.
+
+Q22: How is exception handling done?
+A: Transfer control from one part of a program to another. Built upon: try, catch, finally, throw. 
+
+Q23: What is finally and what is its purpose?
+A: It always executes and the main purpose is to release the system resources. 
+
+Q24: List the differences between Array and ArrayList.
+A: Array is a fixed length data structure while ArrayList is a variable length Collection class.
+
+Q25: What is an object?
+A: A block of memory that has been allocated and configured. 
+
+Q26: Define constructor.
+A: Used to initialize the data members of new objects. 
+
+Q27: When can var be used to declare a variable and how is the type for the variable determined?
+A: Var is determined by the compiler and is used to take away the requirement of getting the result by creating a new class.
+
+Q28: What is an abstract class?
+A: To define some common behavior that can be inherited by multiple subclasses, without implementing the entire class.
+
+Q29: What is an interface?
+A: It contains only the declaration of the methods, properties, and events.
+
+Q30: What is a method?
+A: A code block that contains a series of statements. 
+
+Q31: What is a property?
+A: A property reads and writes values from a private field.
+
+Q32: What is an access specifier?
+A: Specify the accessibility of a type and its members.
+
+Q33: What access specifiers are supported and what do they mean?
+A: Private, public, internal, protected are keywords in object-oriented languages that set the accessibility of classes, methods, and other members.
+
+Q34: What is a collection?
+A:Collections allow an easier way to work on projects.
+
+Q35: What is a Hash Table?
+A: A hash table is a collection of value and key pairs.
